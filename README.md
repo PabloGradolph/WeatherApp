@@ -20,7 +20,8 @@ WeatherApp is a simple application that provides weather information for specifi
 
 1. Clone this repository to your local machine.
 2. Ensure that you have Python and the necessary dependencies installed. You can install the dependencies by running the following command: `pip install -r requirements.txt`.
-3. Run the application using the command: `python main.py`.
+3. Change your API Key.
+4. Run the application using the command: `python main.py`.
 
 ## Contribution
 
