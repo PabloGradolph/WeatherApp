@@ -9,7 +9,7 @@ class WeatherDataManager:
     Class to manage weather data using the OpenWeatherMap API.
     """
 
-    OPENWEATHERMAP_API_KEY = 'c4226d80a4b7ebc54642ab8967ad0fba'
+    OPENWEATHERMAP_API_KEY = 'YourApiKey'
 
     @classmethod
     def is_valid_city(cls, city: str) -> bool:
